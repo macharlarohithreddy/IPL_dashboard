@@ -1,6 +1,5 @@
 # IPL Data Analysis Dashboard (2008-2025) | Excel Project
-![Main Dashboard]
-(Dashboard ipl_analysis.png)
+![Main Dashboard](Dashboard%20ipl_analysis.png)
 
 ## 📌 Overview
 Analyzed 700+ IPL matches from 2008-2025. Cleaned raw data and built an interactive dashboard to find winning patterns, venue analysis, and player performance.
